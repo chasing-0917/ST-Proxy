@@ -63,4 +63,4 @@ async def message(ctx):
     await ctx.send(embed=embed)
 
 
-bot.run('NzU1NjIyNjU5MTM5ODI5Nzcy.X2F-cA.Yd3BwwtgVxqkxN1DBPfquXUh_uY')
+bot.run('NzU1NjIyNjU5MTM5ODI5Nzcy.X2F-cA.NOXe8c6V4XhE_sCwdK1cjF5fGy8')
